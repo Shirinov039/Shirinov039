@@ -19,9 +19,9 @@ This is the place where I opensource stuff and break things :rofl:
 🔗 &nbsp;**Connect with me**
 <p align="left">
 
-<a href="https://linkedin.com/in/shirinov039" target="blank"><img align="center"  alt="shirinov039" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shirinov039" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="blank"><img align="center"  alt="shirinov039" height="30" width="40" /></a>
 
-<a href="https://instagram.com/shirinov039" target="blank"><img align="center"  alt="shirinov039" height="30" width="40" /></a>
+<a href="https://instagram.com/shirinov039" src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" target="blank"><img align="center"  alt="shirinov039" height="30" width="40" /></a>
 
   
 ### ✨&nbsp; About Me
