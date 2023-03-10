@@ -2,10 +2,10 @@
 This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+- 🌱 &nbsp;I’m currently learning Front-End Programming
+- 💬 &nbsp;Ask me about anything related to Web Pentest or Bash/C++
+- 👨‍💻 &nbsp;Read more about my projects at [techmoonaze.blogspot.com](https://techmoonaze.blogspot.com)
+- ⚡ &nbsp; It is recommended that you take a look at my Telegram channelg (ChannelTag: [TechMoon_Aze](https://t.me/TechMoon_Aze)
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
