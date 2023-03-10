@@ -5,7 +5,7 @@ This is the place where I opensource stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning Front-End Programming
 - 💬 &nbsp;Ask me about anything related to Web Pentest or Bash/C++
 - 👨‍💻 &nbsp;Read more about my projects at [techmoonaze.blogspot.com](https://techmoonaze.blogspot.com)
-- ⚡ &nbsp; It is recommended that you take a look at my Telegram channelg (ChannelTag: [TechMoon_Aze](https://t.me/TechMoon_Aze)
+- ⚡ &nbsp; It is recommended that you take a look at my Telegram channelg (ChannelTag: [TechMoon_Aze](https://t.me/TechMoon_Aze))
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
@@ -32,11 +32,4 @@ This is the place where I opensource stuff and break things :rofl:
 
 I am a Full Stack Developer with 9+ years of experience in developing enterprise applications and open-source software.
 
-#### My Opensource Story
-All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
-- [Nothing Private](https://github.com/gautamkrishnar/nothing-private) - This proof of concept project showcases the ability of any website to track and identify individuals, even when using private browsing or incognito mode in their web browser. With over 5000K users and 1.8K stars, it has garnered attention and discussions in privacy forums and conferences globally. Its impact has led to improvements from privacy-focused browser vendors to counter fingerprinting, and has increased public awareness of the dangers of browser fingerprinting.
-- [Blog Post Workflow](https://github.com/gautamkrishnar/blog-post-workflow) - A Github action to show your latest blog posts from any sources or StackOverflow activity or Youtube Videos on your GitHub profile/project readme automatically using the RSS feed. It is now used by over 5.6K+ users and running on thousands of GitHub actions runner every hour. It is also one of the top 20 [most used](https://github.com/marketplace?category=&query=sort%3Apopularity-desc&type=actions&verification=) GitHub actions internationally in GitHub Marketplace.
--  [SoCLI](https://github.com/gautamkrishnar/socli) Within 24 hours of its release, it garnered over 300 stars and now has nearly 2K users. This tool offers a convenient way of accessing StackOverflow directly from a terminal.
-- [Motrix WebExtension](https://github.com/gautamkrishnar/motrix-webextension) - A browser extension for the Motrix Download Manager. It now has more than 20K+ users worldwide.
-- [Refined GitHub Feeds](https://github.com/gautamkrishnar/refined-github-feeds) - A browser extension that adds filtering to the Github news feeds. 
 
