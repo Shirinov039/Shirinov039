@@ -10,9 +10,9 @@ This is the place where I opensource stuff and break things :rofl:
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [SQL INJECTION](https://teletype.in/@shirinov039/Sqlinjection)
-- [Saytınızın Təhlükəsizliyini Necə Təmin Edə Bilərsiniz?](https://teletype.in/@shirinov039/saytiqorumaq)
+- [Malware](https://techmoonaze.blogspot.com/2022/11/zrrli-proqram-tminatlar-malware-lr.html)
 - [DarkWeb ](https://teletype.in/@shirinov039/darkweb)
-- [Kodyazan, proqramist, tərtibatçı və proqram mühəndisi arasındakı dəqiq fərq nədir?](https://teletype.in/@shirinov039/coder-proqramist-ferq)
+- [DHCP](https://techmoonaze.blogspot.com/2022/07/dhcp-ndir-dhcp-server-nec-islyir.html)
 - [Spoofing](https://teletype.in/@shirinov039/spoofing)
 <!-- BLOG-POST-LIST:END -->
 
